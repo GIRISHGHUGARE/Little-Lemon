@@ -5,7 +5,7 @@ export const LittleLemonFooter = () => {
         <>
             <View
                 style={{
-                    backgroundColor: '#F4CE14',
+                    backgroundColor: '#EE9972',
                     paddingBottom: 20,
                 }}>
                 <Text
